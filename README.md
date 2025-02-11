@@ -1,6 +1,10 @@
 ### 📊 **Project Overview: Behavioral Finance and Portfolio Optimization**
 
 This report presents a comparative analysis of two financial models applied to portfolio management: the **Markowitz efficient frontier** and the **Shefrin-Statman model**, focusing on behavioral finance principles.
+---
+[You can find the report here](report.pdf)
+---
+[And the Excel Sheet I used to calculate the efficient frontier here](Portfolio_efficient_frontier.xlsx)
 
 ---
 
