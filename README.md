@@ -7,6 +7,7 @@ This report presents a comparative analysis of two financial models applied to p
 [And the Excel Sheet I used to calculate the efficient frontier here](Portfolio_efficient_frontier.xlsx)
 
 ---
+![cover](Image/cover.png)
 
 ### 🚀 **Key Elements of the Report**
 
